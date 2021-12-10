@@ -23,7 +23,10 @@ Governance, risk and compliance; Terminal and Bash; Linux administration and har
 
 ### Projects 
 
-[Cloud Security, ELK stack on Azure](https://github.com/livetru2u/cloud-security-elk-stack-on-azure)
+[Cloud Security, ELK stack on Azure](https://github.com/livetru2u/cloud-security-elk-stack-on-azure)  
+[Red Team Activity - Offensive Report](https://github.com/livetru2u/red-team-activity-24)  
+[Capstone Engagement - Red vs Blue](https://github.com/livetru2u/capstone-engagement/blob/main/Capstone%20Engagement%20-%20Chrisitna%20Chen.pdf)  
+[Case Report - National Gallery DC](https://github.com/livetru2u/case-report-national-gallery-DC/blob/main/Case%20Report%20National%20Gallery%20DC.pdf)  
 
 ### Experience 
 
