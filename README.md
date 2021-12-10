@@ -1,4 +1,5 @@
 ## Christina Chen Bertucci
+livetru2u@protonmail.com  
 Markham ON Canada  
 [My LinkedIn Profile](https://linkedin.com/in/christinachenbertucci)
 
@@ -77,4 +78,6 @@ Dancer, Gardening, Rock and Mineral Collector, Pet salamander and hamster, Swing
 
 * English (Fluent: Speak, Read, Write) 
 * Hakka (Fluent: Speak)
-* French (Basic: Speak, Read, Write)
+* French (Basic: Speak, Read, Write)  
+
+### Let's connect! livetru2u@protonmail.com :alien:
