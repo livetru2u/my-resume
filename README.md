@@ -1,6 +1,6 @@
 ## Christina Chen Bertucci
-livetru2u@protonmail.com  
 Markham ON Canada  
+livetru2u@protonmail.com  
 [My LinkedIn Profile](https://linkedin.com/in/christinachenbertucci)
 
 
@@ -17,7 +17,7 @@ Governance, risk and compliance; Terminal and Bash; Linux administration and har
 ### Technical skills
 
 **Languages:**  		Bash, PowerShell, pursuing Python  
-**Tools:** 			Azure, Wireshark, Splunk, Metasploit, WPScan, Hydra, John the ripper, Burp suite, Autopsy, Scripting, Security Onion  
+**Tools:** 			Azure, Wireshark, Splunk, Metasploit, WPScan, Hydra, John the ripper, Burp suite, Autopsy, Scripting, Security Onion   
 **Operating systems:** 	Kali Linux, Linux, Ubuntu, Windows 10, Mac OS X  
 **Knowledgeable:** 	Brute force, Cryptography  
 
