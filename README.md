@@ -1,5 +1,5 @@
 ## Christina Chen Bertucci
-Markham ON L3S 2B7  
+Markham ON Canada  
 [My LinkedIn Profile](https://linkedin.com/in/christinachenbertucci)
 
 
