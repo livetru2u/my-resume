@@ -73,14 +73,19 @@ The Canadian Association of Insurance and Financial Advisors (CAIFA)
 * **Asbestos Abatement and Mould Remediation training**  
 * **WHMIS Certificate and Fall Arrest Certificate**  
 
-### Hobbies
+### Volunteer Activities 
+**St. Michael Catholic Academy**  
+*Thornhill, Ontario*  
+Parent Council; Budget Committee; Theatrical Set Construction; Milk Program; Greening Committee  
+
+### Hobbies  
 
 Dancer, Gardening, Rock and Mineral Collector, Weight training, Hikes with amazing summit views, Science Fiction.
 
-### Languages
+### Languages  
 
 * English (Fluent: Speak, Read, Write) 
 * Hakka (Fluent: Speak)
 * French (Basic: Speak, Read, Write)  
 
-### Let's connect! livetru2u@protonmail.com :alien:
+### You've come this far. Let's connect! livetru2u@protonmail.com :alien:
