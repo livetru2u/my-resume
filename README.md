@@ -17,9 +17,9 @@ Governance, risk and compliance; Terminal and Bash; Linux administration and har
 ### Technical skills
 
 **Languages:**  		Bash, PowerShell, pursuing Python  
-**Tools:** 			Azure, Wireshark, Splunk, Metasploit, WPScan, Hydra, John the ripper, Burp suite, Autopsy, Scripting, Security Onion   
-**Operating systems:** 	Kali Linux, Linux, Ubuntu, Windows 10, Mac OS X  
-**Knowledgeable:** 	Brute force, Cryptography  
+**Tools:** 			Metasploit, WPScan, Hydra, John the ripper, Burp suite, Autopsy, Security Onion, Wireshark, Splunk, Visual Studio Code     
+**Operating systems:** 	Kali Linux, Linux, Ubuntu, Windows 10, Mac OS X, Azure  
+**Knowledgeable:** 	Brute force, Cryptography, Scripting    
 
 ### Projects 
 
@@ -40,7 +40,7 @@ Administrative day to day support.
 
 **National Campaign Assistant, Major Gifts and Planned Giving**  
 *Multiple Sclerosis Society of Canada, National Office, Toronto, Ontario*  
-Executive Assistant to the Chief Development Officer; Development team member for the endMS Campaign; Administrative support for Chair of National Board; Administrative support for Chair of Research Foundation
+Executive Assistant to the Chief Development Officer; Administrative support for Chair of National Board; Administrative support for Chair of Research Foundation;  Development team member for the endMS Campaign / Project Management.
 
 **Executive Assistant / Alternate Branch Manager**  				                        
 *Nelson International Inc., North York, Ontario*  
@@ -75,7 +75,7 @@ The Canadian Association of Insurance and Financial Advisors (CAIFA)
 
 ### Hobbies
 
-Dancer, Gardening, Rock and Mineral Collector, Pet salamander and hamster, Swings, Weight training, Hikes with amazing summit views.
+Dancer, Gardening, Rock and Mineral Collector, Weight training, Hikes with amazing summit views, Science Fiction.
 
 ### Languages
 
