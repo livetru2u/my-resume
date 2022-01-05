@@ -6,7 +6,7 @@ livetru2u@protonmail.com
 
 ### Summary
 
-A solution-driven Cybersecurity Professional that is always interested in opportunities to upgrade my skill set. Currently working towards getting my CompTIA Security+. Starting to learn Python. Enjoys Pen Testing and learning new things both on the creative and logical thinking aspects of machine manipulation and cybersecurity. Strong team player with great communication skills. Experience with sensitive and confidential data and environments; project management; and maintaining client relations.
+A solution-driven Cybersecurity Professional that is always interested in opportunities to upgrade my skill set. Currently working towards getting my CompTIA Security+ and CISSP. Starting to learn Python. Enjoys Pen Testing and learning new things both on the creative and logical thinking aspects of machine manipulation and cybersecurity. Strong team player with great communication skills. Experience with sensitive and confidential data and environments; project management; and maintaining client relations.
 
 ### Certifications
 
