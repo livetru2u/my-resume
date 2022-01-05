@@ -88,4 +88,4 @@ Dancer, Gardening, Rock and Mineral Collector, Weight training, Hikes with amazi
 * Hakka (Fluent: Speak)
 * French (Basic: Speak, Read, Write)  
 
-### You've come this far. Let's connect! livetru2u@protonmail.com :alien:
+### You've come this far. Let's connect! livetru2u@protonmail.com
