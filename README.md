@@ -34,7 +34,7 @@ Governance, risk and compliance; Terminal and Bash; Linux administration and har
 *Infrastructure Ontario, Toronto, Ontario*                                                                
 Provided administrative support to the Vice President, Loan Operations; Vice President, Customer Relations; Vice President, Commercial Underwriting; Director, Credit Risk and their respective teams. Provincial Infrastructure related Financing and Grants. 
 
-**Office Manager / Administration**  					                                         
+**Office and Web Support**  					                                         
 *ARC Property Solutions Corp. Innisfil, Ontario*  
 Administrative day to day support. 
 
