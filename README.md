@@ -6,27 +6,28 @@ livetru2u@protonmail.com
 
 ### Summary
 
-A solution-driven Cybersecurity Professional that is always interested in opportunities to upgrade my skill set. Currently working towards getting my CompTIA Security+ and CISSP. Starting to learn Python. Enjoys Pen Testing and learning new things both on the creative and logical thinking aspects of machine manipulation and cybersecurity. Strong team player with great communication skills. Experience with sensitive and confidential data and environments; project management; and maintaining client relations.
+A solution-driven Cybersecurity Professional that is always interested in opportunities to upgrade my skill set. Currently working towards getting my CompTIA Security+ and subsequently my CISSP. Starting to learn Python. Affinity for Penetration Testing / Offensive Cybersecurity, learning new things both on the creative and logical thinking aspects of machine manipulation, and Computer Forensics. Strong team player with great communication skills. Experience with sensitive and confidential data and environments; project management; and maintaining client relationships.
 
 ### Certifications
 
-* CompTIA Security+  - Pending  
+* CompTIA Security+  - Pending   
+* Interested in pursuing my CISSP
 * Cybersecurity - University of Toronto SCS   
-Governance, risk and compliance; Terminal and Bash; Linux administration and hardening; Linux archiving and logging data; Bash scripting and programming; Windows administration and hardening; Networking fundamentals; Cryptography; Network Security; Cloud Security and Virtualization; Web development; Web vulnerabilities and hardening; Penetration testing; SIEMS; Forensics.
+Governance, risk and compliance; Terminal and Bash; Linux administration and hardening; Linux archiving and logging data; Bash scripting and programming; Windows administration and hardening; Networking fundamentals; Cryptography; Network Security; Cloud Security and Virtualization; Web development; Web vulnerabilities and hardening; Penetration testing; SIEMS; Digital Forensics and Computer Forensics.
 
 ### Technical skills
 
 **Languages:**  		Bash, PowerShell, pursuing Python  
 **Tools:** 			Metasploit, WPScan, Hydra, John the ripper, Burp suite, Autopsy, Security Onion, Wireshark, Splunk, Visual Studio Code     
 **Operating systems:** 	Kali Linux, Linux, Ubuntu, Windows 10, Mac OS X, Azure  
-**Knowledgeable:** 	Brute force, Cryptography, Scripting    
+**Knowledgeable:** 	Brute force, Cryptography, Scripting, Computer Forensics    
 
 ### Projects 
 
 [Cloud Security, ELK stack on Azure](https://github.com/livetru2u/cloud-security-elk-stack-on-azure)  
 [Red Team Activity - Offensive Report](https://github.com/livetru2u/red-team-activity-24)  
 [Capstone Engagement - Red vs Blue](https://github.com/livetru2u/capstone-engagement/blob/main/Capstone%20Engagement%20-%20Chrisitna%20Chen.pdf)  
-[Digital Forensics Case Report - National Gallery, DC](https://github.com/livetru2u/case-report-national-gallery-DC/blob/main/Case%20Report%20National%20Gallery%20DC.pdf)  
+[Digital / Computer Forensics - Case Report - National Gallery, DC](https://github.com/livetru2u/case-report-national-gallery-DC/blob/main/Case%20Report%20National%20Gallery%20DC.pdf)  
 
 ### Experience 
 
@@ -53,11 +54,11 @@ Administrative day to day support.
 ### Education and Training
 
 * **Cybersecurity - University of Toronto SCS**  
-Governance, risk and compliance; Terminal and Bash; Linux administration and hardening; Linux archiving and logging data; Bash scripting and programming; Windows administration and hardening; Networking fundamentals; Cryptography; Network Security; Cloud Security and Virtualization; Web development; Web vulnerabilities and hardening; Penetration testing; SIEMS; Forensics 
+Governance, risk and compliance; Terminal and Bash; Linux administration and hardening; Linux archiving and logging data; Bash scripting and programming; Windows administration and hardening; Networking fundamentals; Cryptography; Network Security; Cloud Security and Virtualization; Web development; Web vulnerabilities and hardening; Penetration testing; SIEMS; Digital Forensics and Computer Forensics.
 * **Seneca College**  
 Accounting
 * **Computer software**  
-MS Office (Word, Excel, PowerPoint, Sharepoint, Outlook); iOS/Mac equivalents(Pages, Numbers, Keynote); Adobe (InDesign, Illustrator); Citrix; Google Suite (Docs)   
+MS Office (Word, Excel, PowerPoint, Sharepoint, Outlook); iOS/Mac equivalents(Pages, Numbers, Keynote); Adobe (InDesign, Illustrator); Citrix; Google Suite (Docs,  Sheets, Slides, Diagram.io); OPAL; Mercure   
 * **AgileTO Mentorship Program**  
 Agile Mentee (Fall 2019, Spring 2020 Sessions)  
 * **Canadian Investment Funds Course** 
