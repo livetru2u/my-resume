@@ -17,17 +17,17 @@ Governance, risk and compliance; Terminal and Bash; Linux administration and har
 
 ### Technical skills
 
-**Languages:**  		Bash, PowerShell, pursuing Python  
-**Tools:** 			Metasploit, WPScan, Hydra, John the ripper, Burp suite, Autopsy, Security Onion, Wireshark, Splunk, Visual Studio Code     
-**Operating systems:** 	Kali Linux, Linux, Ubuntu, Windows 10, Mac OS X, Azure  
-**Knowledgeable:** 	Brute force, Cryptography, Scripting, Computer Forensics    
+**Languages:**  		Bash, PowerShell, Python  
+**Tools:** 			Metasploit, WPScan, Hydra, John the Ripper, Burp Suite, Autopsy, Security Onion, Wireshark, Splunk, Visual Studio Code     
+**Operating systems:** 	Mac OS X, Kali Linux, Ubuntu, Windows 10, Azure  
+**Knowledgeable:** 	Computer Forensics, Red teaming, Cryptography, Scripting     
 
 ### Projects 
 
-[Cloud Security, ELK stack on Azure](https://github.com/livetru2u/cloud-security-elk-stack-on-azure)  
-[Red Team Activity - Offensive Report](https://github.com/livetru2u/red-team-activity-24)  
-[Capstone Engagement - Red vs Blue](https://github.com/livetru2u/capstone-engagement/blob/main/Capstone%20Engagement%20-%20Chrisitna%20Chen.pdf)  
-[Digital / Computer Forensics - Case Report - National Gallery, DC](https://github.com/livetru2u/case-report-national-gallery-DC/blob/main/Case%20Report%20National%20Gallery%20DC.pdf)  
+* [Cloud Security, ELK stack on Azure](https://github.com/livetru2u/cloud-security-elk-stack-on-azure)  
+* [Red Team Activity - Offensive Report](https://github.com/livetru2u/red-team-activity-24)  
+* [Capstone Engagement - Red vs Blue](https://github.com/livetru2u/capstone-engagement/blob/main/Capstone%20Engagement%20-%20Chrisitna%20Chen.pdf)  
+* [Digital / Computer Forensics - Case Report - National Gallery, DC](https://github.com/livetru2u/case-report-national-gallery-DC/blob/main/Case%20Report%20National%20Gallery%20DC.pdf)  
 
 ### Experience 
 
