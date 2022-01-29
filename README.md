@@ -1,5 +1,5 @@
 ## Christina Chen Bertucci
-Markham ON Canada  
+Markham, Ontario, Canada  
 livetru2u@protonmail.com  
 [My LinkedIn Profile](https://linkedin.com/in/christinachenbertucci)
 
