@@ -17,10 +17,10 @@ Governance, risk and compliance; Terminal and Bash; Linux administration and har
 
 ### Technical skills
 
-**Languages:**  		Bash, PowerShell, Python  
-**Tools:** 			Metasploit, WPScan, Hydra, John the Ripper, Burp Suite, Autopsy, Security Onion, Wireshark, Splunk, Visual Studio Code     
-**Operating systems:** 	Mac OS X, Kali Linux, Ubuntu, Windows 10, Azure  
-**Knowledgeable:** 	Computer Forensics, Red teaming, Cryptography, Scripting     
+* **Languages:**  		Bash, PowerShell, Python  
+* **Tools:** 			Metasploit, WPScan, Hydra, John the Ripper, Burp Suite, Autopsy, Security Onion, Wireshark, Splunk, Visual Studio Code     
+* **Operating systems:** 	Mac OS X, Kali Linux, Ubuntu, Windows 10, Azure  
+* **Knowledgeable:** 	Computer Forensics, Red teaming, Cryptography, Scripting     
 
 ### Projects 
 
