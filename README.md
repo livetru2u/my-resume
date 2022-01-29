@@ -75,13 +75,13 @@ The Canadian Association of Insurance and Financial Advisors (CAIFA)
 * **WHMIS Certificate and Fall Arrest Certificate**  
 
 ### Volunteer Activities 
-**St. Michael Catholic Academy**  
+* **St. Michael Catholic Academy**  
 *Thornhill, Ontario*  
 Parent Council; Budget Committee; Theatrical Set Construction; Milk Program; Greening Committee  
 
 ### Hobbies  
 
-Dancer, Gardening, Rock and Mineral Collector, Weight training, Hikes with amazing summit views, Science Fiction.
+* Dancer, Gardening, Rock and Mineral Collector, Weight training, Hikes with amazing summit views, Science Fiction.
 
 ### Languages  
 
