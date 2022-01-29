@@ -31,23 +31,23 @@ Governance, risk and compliance; Terminal and Bash; Linux administration and har
 
 ### Experience 
 
-**Administrative Assistant, Department of Municipal Business Development and Lending**  
+* **Administrative Assistant, Department of Municipal Business Development and Lending**  
 *Infrastructure Ontario, Toronto, Ontario*                                                                
 Provided administrative support to the Vice President, Loan Operations; Vice President, Customer Relations; Vice President, Commercial Underwriting; Director, Credit Risk and their respective teams. Provincial Infrastructure related Financing and Grants. 
 
-**Office and Web Support**  					                                         
+* **Office and Web Support**  					                                         
 *ARC Property Solutions Corp. Innisfil, Ontario*  
 Administrative day to day support. 
 
-**National Campaign Assistant, Major Gifts and Planned Giving**  
+* **National Campaign Assistant, Major Gifts and Planned Giving**  
 *Multiple Sclerosis Society of Canada, National Office, Toronto, Ontario*  
 Executive Assistant to the Chief Development Officer; Administrative support for Chair of National Board; Administrative support for Chair of Research Foundation;  Development team member for the endMS Campaign / Project Management.
 
-**Executive Assistant / Alternate Branch Manager**  				                        
+* **Executive Assistant / Alternate Branch Manager**  				                        
 *Nelson International Inc., North York, Ontario*  
 Executive Administration assisting the Senior National Sales Director of an International Financial Services Company in his operations to oversee 108 regional offices in Canada, USA, UK, and Spain.
 
-**Office Manager** 									            
+* **Office Manager** 									            
 *Bird, Bittner, Antoine, North York, Ontario*  
 Administrative day to day support. 
 
