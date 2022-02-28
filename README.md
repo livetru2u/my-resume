@@ -6,7 +6,7 @@ livetru2u@protonmail.com
 
 ### Summary
 
-A solution-driven Cybersecurity Professional that is always interested in opportunities to upgrade my skill set. Currently working towards getting my CompTIA Security+ and subsequently my CISSP. Starting to learn Python. Affinity for Penetration Testing / Offensive Cybersecurity, learning new things both on the creative and logical thinking aspects of machine manipulation, and Computer Forensics. Strong team player with great communication skills. Experience with sensitive and confidential data and environments; project management; and maintaining client relationships.
+A solution-driven Cybersecurity Professional that is always interested in opportunities fror growth. Currently working towards getting my CompTIA Security+ and subsequently my CISSP. Starting to learn Python. Affinity for Penetration Testing / Offensive Cybersecurity, learning new things both on the creative and logical thinking aspects of machine manipulation, and Computer Forensics. Strong team player with great communication skills. Experience with sensitive and confidential data and environments; project management; and maintaining client relationships.
 
 ### Certifications
 
